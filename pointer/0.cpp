@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     float f = 123.123;
-    float fptr;
+    float *fptr;
 
     *fptr = f;
 
